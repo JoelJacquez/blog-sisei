@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Joel Jacquez]]></title>
+  <link href="http://joeljacquez.github.io/blog-sisei/atom.xml" rel="self"/>
+  <link href="http://joeljacquez.github.io/blog-sisei/"/>
+  <updated>2017-10-25T18:26:02-06:00</updated>
+  <id>http://joeljacquez.github.io/blog-sisei/</id>
+  <author>
+    <name><![CDATA[Joel Jacquez]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Mi Primer Post]]></title>
+    <link href="http://joeljacquez.github.io/blog-sisei/blog/2017/10/25/mi-primer-post/"/>
+    <updated>2017-10-25T18:17:13-06:00</updated>
+    <id>http://joeljacquez.github.io/blog-sisei/blog/2017/10/25/mi-primer-post</id>
+    <content type="html"><![CDATA[<p>Mi primer post contenido</p>
+]]></content>
+  </entry>
+  
+</feed>
